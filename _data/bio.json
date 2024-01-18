@@ -2,7 +2,7 @@
   "basics": {
     "name": "Weibin Wu",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/weibin808.png",
     "email": "weibinwu@hawaii.edu",
     "phone": "808-393-3588",
     "website": "https://Weibin808.github.io",
@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Fitness" },
     { "name": "Graphic Design" },
+    { "name": "Fitness" },
+    { "name": "Video Game" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
