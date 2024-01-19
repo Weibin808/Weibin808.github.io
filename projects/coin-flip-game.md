@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Flip-A-Coin-Day-1200x834.jpg
-title: "Coin flip game"
+title: "Coin Flip Game"
 date: 2023
 published: true
 labels:
