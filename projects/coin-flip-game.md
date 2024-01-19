@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Flip-A-Coin-Day-1200x834.jpg
 title: "Coin flip game"
 date: 2023
 published: true
