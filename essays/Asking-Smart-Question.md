@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-
+## Introduction
 As a programmer, when faced with challenges, we often turn to online resources for assistance. As Eric Raymond points out, before seeking help, one should first attempt to solve the problem independently. If the issue remains unresolved, it's important to ask for help politely and succinctly. Also, it's essential to appreciate the effort of others in helping you.
 
 ## Good Question:
@@ -21,7 +21,7 @@ In this instance, the user spent little effort on their post, repeatedly asking 
 
 Raising a good question can be greatly beneficial for beginners, and not just for the person asking. Thus, whether we're asking questions in programming communities like Stack Overflow or anywhere else on the internet, we should always express our queries clearly and precisely, maintain politeness and patience, and express gratitude for the help we receive.
 
-[View the good question]([https://stackoverflow.com/questions/34335272/inheritence-mock-exam](https://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example?page=1&tab=scoredesc#tab-top)https://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example?page=1&tab=scoredesc#tab-top)
+[View the good question](https://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example?page=1&tab=scoredesc#tab-top)
 
 [View the bad question](https://stackoverflow.com/questions/77884940/how-to-find-the-average-age-of-three-people-using-prompt-in-javascript
 )
