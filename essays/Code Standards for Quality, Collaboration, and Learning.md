@@ -12,6 +12,7 @@ labels:
 ---
 
 <img class="img-fluid" src="../img/code-quality-standard.jpg">
+
 ## Coding Standards
 "Coding standards" are frequently misunderstood in programming circles, often perceived only as superficial matters such as indenting with two spaces or using braces on individual lines. While such superficial considerations might appear appealing, such an approach fails to appreciate their significant benefits of improving code quality, team collaboration and helping developers better grasp programming languages.
 
