@@ -11,7 +11,6 @@ labels:
   - Software Eingineering
 ---
 
-
 ## The Attraction of UI Frameworks
 UI frameworks such as Bootstrap 5 are like a Swiss army knife for web developers. They contain pre-designed components (such as buttons, navigation bars, and forms), CSS utilities for layout and styling, and JavaScript plug-ins to add interactivity.
 
