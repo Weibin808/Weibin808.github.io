@@ -4,7 +4,7 @@ type: essay
 title: "UI Frameworks: Balancing Efficiency with Learning"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - Html
   - Boostrap 5
