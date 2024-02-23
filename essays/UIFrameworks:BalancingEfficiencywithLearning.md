@@ -10,7 +10,8 @@ labels:
   - Boostrap 5
   - Software Eingineering
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/pipi.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/pipi.png">
+
 ## The Attraction of UI Frameworks
 UI frameworks such as Bootstrap 5 are like a Swiss army knife for web developers. They contain pre-designed components (such as buttons, navigation bars, and forms), CSS utilities for layout and styling, and JavaScript plug-ins to add interactivity.
 
