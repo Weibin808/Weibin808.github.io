@@ -21,7 +21,7 @@ The argument for sticking to just raw HTML and CSS revolves around control and l
 ## Personal Experience
 My web development journey began with raw HTML and CSS, providing a solid foundation in web development principles. However, the transition to Bootstrap 5 marked an important turning point. The efficiency of the framework in creating responsive designs and the availability of pre-built components allowed me to focus more on functionality and less on complex layout design. I've found that each framework has its strengths. the highlight of Bootstrap 5 is its extensive documentation and community support, making it easier for newcomers to get started.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/wdnmd.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/wdnmd.jpg">
 
 ## Comparisons
 Consider a side-by-side comparison of web pages: one made with Bootstrap 5, the other with plain HTML and CSS. The Bootstrap pages feature responsive design, interactive elements, and professional layouts, demonstrating the framework's ability to produce modern, complex web pages. In contrast, the original HTML/CSS page, while fully functional, lacked the finesse and adaptability offered by Bootstrap.
