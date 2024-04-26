@@ -14,6 +14,7 @@ labels:
 ## Composing Code: My Experience Developing with Bowfolios
 In the vast kitchen of software development, where recipes blend traditional techniques with modern flavors, Bowfolios serves as both a cookbook and a dining platform for the University of Hawaii community. My role in this culinary adventure was akin to that of a chef, meticulously selecting ingredients—in the form of design patterns—to create a satisfying dish that not only meets nutritional needs but also pleases the palate.
 
+
 ## Crafting a Balanced Meal: The MVC Pattern
 Employing the Model-View-Controller (MVC) pattern was like organizing my kitchen into functional areas: preparation (model), cooking (controller), and presentation (view). This structure ensured that the storage of ingredients (data handling), the cooking process (logic execution), and the plating (user interface) were distinct yet harmoniously connected. Such organization allowed for efficient adjustments and ensured that any changes in the recipe (data) didn't affect the presentation (UI) directly.
 
