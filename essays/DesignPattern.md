@@ -12,8 +12,8 @@ labels:
 ---
 
 ## Composing Code: My Experience Developing with Bowfolios
-<img class="img-fluid" src="../img/logo_programming_1.jpg">In the vast kitchen of software development, where recipes blend traditional techniques with modern flavors, Bowfolios serves as both a cookbook and a dining platform for the University of Hawaii community. My role in this culinary adventure was akin to that of a chef, meticulously selecting ingredients—in the form of design patterns—to create a satisfying dish that not only meets nutritional needs but also pleases the palate.
-
+In the vast kitchen of software development, where recipes blend traditional techniques with modern flavors, Bowfolios serves as both a cookbook and a dining platform for the University of Hawaii community. My role in this culinary adventure was akin to that of a chef, meticulously selecting ingredients—in the form of design patterns—to create a satisfying dish that not only meets nutritional needs but also pleases the palate.
+<img class="img-fluid" src="../img/logo_programming_1.jpg">
 
 ## Crafting a Balanced Meal: The MVC Pattern
 Employing the Model-View-Controller (MVC) pattern was like organizing my kitchen into functional areas: preparation (model), cooking (controller), and presentation (view). This structure ensured that the storage of ingredients (data handling), the cooking process (logic execution), and the plating (user interface) were distinct yet harmoniously connected. Such organization allowed for efficient adjustments and ensured that any changes in the recipe (data) didn't affect the presentation (UI) directly.
@@ -35,6 +35,7 @@ The Strategy Pattern allowed for dynamic adjustments in the cooking process, sim
 ## Garnishing the Dish: Observer and Decorator Patterns
 The Observer Pattern acted as the kitchen's alert system, notifying all parts of changes—like a sous-chef announcing when an ingredient is added. This ensured that the user interface was always fresh and responsive.
 Meanwhile, the Decorator Pattern was used to enhance elements without changing their basic structure, akin to adding garnishes or extra seasonings to enhance a dish without overhauling its fundamental flavors.
+<img class="img-fluid" src="../img/index-design-patterns-3x.jpg.jpg">
 
 ## Mastering the Kitchen: Template Method and Factory Patterns
 Further sophistication in my coding cuisine came from implementing the Template Method and Factory Patterns. The Template Method pattern allowed me to define the skeleton of how a module or object would be executed, leaving the exact steps open to modifications—similar to a base recipe that can be varied according to taste. The Factory Pattern facilitated the creation of objects without specifying the exact class of object that would be created, enabling a more flexible instantiation akin to choosing kitchen tools based on what the recipe demands.
