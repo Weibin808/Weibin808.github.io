@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Navigating the AI Landscape in Software Engineering Education: Insights and Reflections from ICS 314"
+title: "Navigating the AI Landscape in Software Engineering Education: Insights and Reflections"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
@@ -16,7 +16,7 @@ labels:
 The advent of Artificial Intelligence (AI) has ushered in a new era of educational methodologies, particularly in the field of software engineering. As a student in ICS 314, I have witnessed firsthand the transformative impact of AI on learning processes, problem-solving, and practical application of complex concepts. This course has provided me with opportunities to engage with various AI tools, including ChatGPT, Google's Bard, and GitHub Copilot, each offering unique insights and assistance. This essay explores how these tools have been integrated into different facets of the course, evaluates their effectiveness, and considers their future potential in education.
 
 ## II. Personal Experience with AI:
-I have used AI in class this semester in the following areas:
+Throughout the semester, I engaged with AI technologies in various aspects of ICS 314, which included:
 
 1.Experience WODs e.g. E18
    
@@ -84,13 +84,11 @@ Beyond the classroom, AI's practical applications have demonstrated significant 
 
 ## V. Challenges and Opportunities:
 
-While AI offers numerous advantages, it also presents several challenges. One major concern is the accuracy and reliability of AI-generated information, which can sometimes be erroneous or inappropriate without thorough verification. This necessitates a balanced approach where AI complements, rather than replaces, human judgment.
-
-The opportunity for further integration of AI in software engineering education is vast. AI could potentially transform how students interact with the material, making learning more personalized and adaptive to individual needs. However, this requires careful curriculum design to ensure AI tools are used effectively and ethically.
+While AI offers numerous advantages, it also presents several challenges. One major concern is the accuracy and reliability of AI-generated information, which can sometimes be erroneous or inappropriate without thorough verification. This necessitates a balanced approach where AI complements, rather than replaces, human judgment. The opportunity for further integration of AI in software engineering education is vast. AI could potentially transform how students interact with the material, making learning more personalized and adaptive to individual needs. However, this requires careful curriculum design to ensure AI tools are used effectively and ethically.
 
 ## VI. Comparative Analysis:
 
-Comparing traditional teaching methods with AI-enhanced approaches reveals distinct advantages in engagement and knowledge retention. AI facilitates a more interactive and responsive learning environment, which can be particularly effective for complex subjects like software engineering. However, traditional methods still excel in providing deep, nuanced understanding and critical thinking skills, which are essential for professional growth.
+Comparing traditional teaching methods with AI-enhanced approaches reveals distinct advantages in engagement and knowledge retention. AI facilitates a more interactive and responsive learning environment, which can be particularly effective for complex subjects like software engineering. The use of AI can transform static learning materials into dynamic interactive sessions where students receive immediate feedback on their performance, fostering a more engaging and customized learning experience. These methods encourage students to delve deeply into topics, promoting a thorough comprehension that may not be as effectively achieved through AI’s often succinct and direct answers. Traditional pedagogical approaches also better facilitate the development of soft skills, such as argumentation and debate, which are crucial in professional settings but less often addressed by AI tools.
 
 ## VII. Future Considerations:
 
