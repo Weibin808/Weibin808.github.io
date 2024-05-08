@@ -7,7 +7,6 @@ date: 2024-05-07
 published: true
 labels:
   - AI
-  - Javascript
   - Learning
   - software engineer
 ---
