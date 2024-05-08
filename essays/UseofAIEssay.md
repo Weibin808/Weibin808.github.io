@@ -12,6 +12,8 @@ labels:
   - software engineer
 ---
 
+<img class="img-fluid" src="../img/What-is-Artiificial-IntelligenceAI.jpg">
+
 ## I. Introduction
 The advent of Artificial Intelligence (AI) has ushered in a new era of educational methodologies, particularly in the field of software engineering. As a student in ICS 314, I have witnessed firsthand the transformative impact of AI on learning processes, problem-solving, and practical application of complex concepts. This course has provided me with opportunities to engage with various AI tools, including ChatGPT, Google's Bard, and GitHub Copilot, each offering unique insights and assistance. This essay explores how these tools have been integrated into different facets of the course, evaluates their effectiveness, and considers their future potential in education.
 
