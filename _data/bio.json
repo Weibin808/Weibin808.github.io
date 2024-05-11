@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "Weibin808": "mmaluhia", "url": "http://github.com/Weibin808" },
-      { "network": "linkedin", "WeibinWu": "mollymaluhia", "url": "https://www.linkedin.com/in/weibin-wu-8809182a9/" },
+      { "network": "github", "username": "Weibin808", "url": "http://github.com/Weibin808" },
+      { "network": "linkedin", "username": "WeibinWu", "url": "https://www.linkedin.com/in/weibin-wu-8809182a9/" },
     ]
   },
   "interests": [
@@ -40,32 +40,6 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -91,20 +65,6 @@
         "",
         ""
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
