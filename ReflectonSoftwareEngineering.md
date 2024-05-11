@@ -11,7 +11,6 @@ labels:
   - Agile Project Management
 ---
 
-
 ## Introduction
 As the ICS 314 course draws to a close, it’s essential to reflect on the comprehensive journey through the multifaceted world of software engineering. While the curriculum was rich in web application development, the more profound learning experience lay in mastering fundamental software engineering principles that transcend the domain of web applications. This essay delves into three core concepts: Configuration Management, Agile Project Management, and Design Patterns, exploring their significance beyond web development and their potential applications in various software engineering contexts.
 
