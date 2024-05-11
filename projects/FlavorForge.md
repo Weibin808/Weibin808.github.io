@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/flavorforgelogo.png
 title: "FlavorForge: Let us cook"
 date: 2024
 published: true
