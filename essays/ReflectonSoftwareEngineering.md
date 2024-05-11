@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Beyond Web Development: Embracing Fundamental Software Engineering Concepts"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-010
+date: 2024-05-10
 published: true
 labels:
   - Software Engineering
