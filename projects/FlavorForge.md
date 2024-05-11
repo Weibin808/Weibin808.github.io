@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flavorforgelogo.png
+image: img/FlavorForgeLogo (1).png
 title: "FlavorForge: Let us cook"
 date: 2024
 published: true
@@ -31,7 +31,7 @@ Overview of the project:
 ## Profile
 <img class="img-fluid" src="../img/profile-page.jpg">
 
-## My Role in the Project: Edit Recipe Page
+## My Role in the Project
 For this project, I was responsible for developing the Edit Recipe Page, a crucial feature that allows users to update and manage their recipes. This involved creating a user-friendly interface where users could modify recipe details such as ingredients, instructions, and photos.
 
 ## What I Learned
